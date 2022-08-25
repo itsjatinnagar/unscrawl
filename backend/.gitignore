@@ -1,0 +1,13 @@
+# VS Code Settings
+.vscode
+
+# Generated PyCache
+__pycache__
+
+# Environment Scripts
+*.sh
+!entrypoint.sh
+
+# Secrets
+.env
+firebase_secrets.json
